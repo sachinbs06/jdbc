@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Samsung\Desktop\jdbc\.metadata\.plugins\org.eclipse.jdt.core
+2992935118.index
+2692694676.index
+2186899505.index
+3959547942.index
+1828480765.index
+1865797976.index
+28896780.index
